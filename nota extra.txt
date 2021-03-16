@@ -1,0 +1,1 @@
+al abrir el proyecto en visual studio , se van a descargar paquetes extras automaticamente

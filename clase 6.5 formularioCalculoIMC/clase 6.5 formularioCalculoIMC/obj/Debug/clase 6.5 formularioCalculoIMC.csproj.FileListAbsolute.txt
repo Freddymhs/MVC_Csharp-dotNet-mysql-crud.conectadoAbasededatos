@@ -1,0 +1,144 @@
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\clase 6.5 formularioCalculoIMC.dll.config
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\clase 6.5 formularioCalculoIMC.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\clase 6.5 formularioCalculoIMC.pdb
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csc.exe
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csc.exe.config
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csc.rsp
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csi.exe
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csi.exe.config
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csi.rsp
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.AppContext.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Console.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.Compression.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Claims.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.ValueTuple.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\vbc.exe
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\vbc.exe.config
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\vbc.rsp
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\VBCSCompiler.exe
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Antlr3.Runtime.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Newtonsoft.Json.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\System.Web.Optimization.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\WebGrease.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\System.Web.Optimization.xml
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Newtonsoft.Json.xml
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Antlr3.Runtime.pdb
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.csprojAssemblyReference.cache
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.csproj.CopyComplete
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.dll
+C:\Users\HylianN\OneDrive\Escritorio\Programacion avanzada-C#\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.pdb
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\clase 6.5 formularioCalculoIMC.dll.config
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\clase 6.5 formularioCalculoIMC.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\clase 6.5 formularioCalculoIMC.pdb
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csc.exe
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csc.exe.config
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csc.rsp
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csi.exe
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csi.exe.config
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\csi.rsp
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.AppContext.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Console.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.Compression.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Claims.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.ValueTuple.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\vbc.exe
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\vbc.exe.config
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\vbc.rsp
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\VBCSCompiler.exe
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Antlr3.Runtime.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Newtonsoft.Json.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\System.Web.Optimization.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\WebGrease.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\System.Web.Optimization.xml
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Newtonsoft.Json.xml
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Antlr3.Runtime.pdb
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.csprojAssemblyReference.cache
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.csproj.CopyComplete
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.dll
+C:\Users\FmarcosN\OneDrive\Escritorio\Programacion\OTROS\practicaC#\clase 6.5 formularioCalculoIMC\clase 6.5 formularioCalculoIMC\obj\Debug\clase 6.5 formularioCalculoIMC.pdb
